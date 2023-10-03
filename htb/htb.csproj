@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="echo print &quot;Hello, World!\n&quot;; &gt; &quot;$(TargetDir)script.pl&quot;&#xD;&#xA;" />
+  </Target>
+
 </Project>
