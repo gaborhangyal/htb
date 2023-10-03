@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hackctf", "hackctf\hackctf.csproj", "{AB93477B-44B8-4B14-9893-8521967FAE3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C431B262-7E34-40C5-9C7D-4899B08F0C41}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\asd.pl = ..\..\asd.pl
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB93477B-44B8-4B14-9893-8521967FAE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB93477B-44B8-4B14-9893-8521967FAE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB93477B-44B8-4B14-9893-8521967FAE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB93477B-44B8-4B14-9893-8521967FAE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71E63478-CDBE-4124-84B6-B220946D1199}
+	EndGlobalSection
+EndGlobal
