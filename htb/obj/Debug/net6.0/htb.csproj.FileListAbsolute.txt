@@ -1,0 +1,14 @@
+C:\Users\gabor\Documents\ctf\htb\htb\htb\bin\Debug\net6.0\htb.exe
+C:\Users\gabor\Documents\ctf\htb\htb\htb\bin\Debug\net6.0\htb.deps.json
+C:\Users\gabor\Documents\ctf\htb\htb\htb\bin\Debug\net6.0\htb.runtimeconfig.json
+C:\Users\gabor\Documents\ctf\htb\htb\htb\bin\Debug\net6.0\htb.dll
+C:\Users\gabor\Documents\ctf\htb\htb\htb\bin\Debug\net6.0\htb.pdb
+C:\Users\gabor\Documents\ctf\htb\htb\htb\obj\Debug\net6.0\htb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabor\Documents\ctf\htb\htb\htb\obj\Debug\net6.0\htb.AssemblyInfoInputs.cache
+C:\Users\gabor\Documents\ctf\htb\htb\htb\obj\Debug\net6.0\htb.AssemblyInfo.cs
+C:\Users\gabor\Documents\ctf\htb\htb\htb\obj\Debug\net6.0\htb.csproj.CoreCompileInputs.cache
+C:\Users\gabor\Documents\ctf\htb\htb\htb\obj\Debug\net6.0\htb.dll
+C:\Users\gabor\Documents\ctf\htb\htb\htb\obj\Debug\net6.0\refint\htb.dll
+C:\Users\gabor\Documents\ctf\htb\htb\htb\obj\Debug\net6.0\htb.pdb
+C:\Users\gabor\Documents\ctf\htb\htb\htb\obj\Debug\net6.0\htb.genruntimeconfig.cache
+C:\Users\gabor\Documents\ctf\htb\htb\htb\obj\Debug\net6.0\ref\htb.dll
