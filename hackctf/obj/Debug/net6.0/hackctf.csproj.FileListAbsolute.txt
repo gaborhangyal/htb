@@ -13,3 +13,4 @@ C:\Users\gabor\Documents\ctf\htb\hackctf\hackctf\obj\Debug\net6.0\refint\hackctf
 C:\Users\gabor\Documents\ctf\htb\hackctf\hackctf\obj\Debug\net6.0\hackctf.pdb
 C:\Users\gabor\Documents\ctf\htb\hackctf\hackctf\obj\Debug\net6.0\hackctf.genruntimeconfig.cache
 C:\Users\gabor\Documents\ctf\htb\hackctf\hackctf\obj\Debug\net6.0\ref\hackctf.dll
+C:\Users\gabor\Documents\ctf\htb\hackctf\hackctf\bin\Debug\net6.0\shell.php
