@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qD96XKJlx2c3hH2x/2Z37BcnTozKRiv9Y1mtYJVT+6ifJXPepsyESi11R+e389zA8Mm+pcXcOnc0deU0CLw2KA==",
+  "dgSpecHash": "gsmtwJCje4XblnpiJgbYq7CrN6JjD3dPwgGEoPqglt/dD2VguEcohzBAQfwHIKLkgsAK5nV48KZ4WGXudUVWBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabor\\Documents\\ctf\\gg\\htb\\hackctf\\hackctf.csproj",
+  "projectFilePath": "C:\\Users\\gabor\\Documents\\ctf\\htb\\hackctf\\hackctf\\hackctf.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
