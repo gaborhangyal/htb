@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -8,14 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="asd.pl" />
     <None Remove="shell.php" />
   </ItemGroup>
 
   <ItemGroup>
-    <Content Include="asd.pl">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
     <Content Include="shell.php">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

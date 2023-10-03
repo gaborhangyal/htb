@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabor\\Documents\\ctf\\htb\\hackctf\\hackctf\\hackctf.csproj",
+      "projectUniqueName": "C:\\Users\\gabor\\Documents\\ctf\\gg\\htb\\hackctf\\hackctf.csproj",
       "projectName": "hackctf",
-      "projectPath": "C:\\Users\\gabor\\Documents\\ctf\\htb\\hackctf\\hackctf\\hackctf.csproj",
+      "projectPath": "C:\\Users\\gabor\\Documents\\ctf\\gg\\htb\\hackctf\\hackctf.csproj",
       "packagesPath": "C:\\Users\\gabor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabor\\Documents\\ctf\\htb\\hackctf\\hackctf\\obj\\",
+      "outputPath": "C:\\Users\\gabor\\Documents\\ctf\\gg\\htb\\hackctf\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabor\\AppData\\Roaming\\NuGet\\NuGet.Config",
